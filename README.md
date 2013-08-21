@@ -5,15 +5,21 @@ Motivation icons for Photoshop & Illustrator
 
 When I saw the [Logic Pro X](http://www.apple.com/ru/logic-pro/) icon I thought that the apps for creative work should have similar ones, 
 because it's a beautiful example of an icon that motivates you. Without thinking twice I made two icons for Adobe Photoshop 
-and Adobe Illustrator as these are the apps which I use in my everyday work. For the Photoshop I’ve chosen "Mona Lisa" by Leonardo 
+and Adobe Illustrator as these are the apps which I use in my everyday work. 
+
+![alt text](https://raw.github.com/keske/motivation/master/img/magic.png "Magic")
+
+For the Photoshop I’ve chosen "Mona Lisa" by Leonardo 
 and for the Illustrator "Hope" by Shepard Perry.
 
-##Result
+###Result
 
 ![alt text](https://raw.github.com/keske/motivation/master/img/result.png "Result")
 
 
-# Usage
+---
+
+#Usage
 
 You could use one of two ways from finder app or from terminal.
 
@@ -48,10 +54,8 @@ cp motivation/icons/PS_AppIcon.icns /Applications/Adobe\ Photoshop\ CS6/Adobe\ P
 
 #### Links
 
-[Logic Pro X](http://www.apple.com/ru/logic-pro/)
-
-[Adobe](http://www.adobe.com/) 
-
-[http://en.wikipedia.org/wiki/Mona_Lisa](http://en.wikipedia.org/wiki/Mona_Lisa)
-
-[http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster](http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster)
+1. [Logic Pro X](http://www.apple.com/ru/logic-pro/)
+2. [Adobe](http://www.adobe.com/) 
+3. [http://en.wikipedia.org/wiki/Mona_Lisa](http://en.wikipedia.org/wiki/Mona_Lisa)
+4. [http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster](http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster)
+5. [http://andreykeske.com/graphics.html](http://andreykeske.com/graphics.html)
