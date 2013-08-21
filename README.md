@@ -1,8 +1,8 @@
 Motivation icons for Photoshop & Illustrator
 ============================================
 
-Into
-----
+# Into
+
 When I saw the [Logic Pro X](http://www.apple.com/ru/logic-pro/) icon I thought that the apps for creative work should have similar ones, 
 because it's a beautiful example of an icon that motivates you. Without thinking twice I made two icons for Adobe Photoshop 
 and Adobe Illustrator as these are the apps which I use in my everyday work. For the Photoshop I’ve chosen "Mona Lisa" by Leonardo 
@@ -13,12 +13,11 @@ and for the Illustrator "Hope" by Shepard Perry.
 ![alt text](https://raw.github.com/keske/motivation/master/img/result.png "Result")
 
 
-Usage
------
+# Usage
 
 You could use one of two ways from finder app or from terminal.
 
-###Copy files from Finder
+### Copy files from Finder
 
 ![alt text](https://raw.github.com/keske/motivation/master/img/finder.png "Finder")
 
@@ -26,7 +25,7 @@ You could use one of two ways from finder app or from terminal.
 2. For Adobe Photoshop CS6 copy PS_AppIcon.icns to /Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/Contents/Resources/
 3. For Adobe Illustrator CS6 copy AI_Application_Icon.icns to /Applications/Adobe Illustrator CS6/Adobe Illustrator.app/Contents/Resources/
 
-###Copy files from Terminal
+### Copy files from Terminal
 
 ![alt text](https://raw.github.com/keske/motivation/master/img/terminal.png "Terminal")
 
@@ -45,7 +44,9 @@ Copy PS icon:
 cp motivation/icons/PS_AppIcon.icns /Applications/Adobe\ Photoshop\ CS6/Adobe\ Photoshop\ CS6.app/Contents/Resources 
 ```
 
-####Links
+----
+
+#### Links
 
 [Logic Pro X](http://www.apple.com/ru/logic-pro/)
 
