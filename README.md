@@ -9,13 +9,13 @@ and Adobe Illustrator as these are the apps which I use in my everyday work.
 
 ![alt text](https://raw.github.com/keske/motivation/master/img/magic.png "Magic")
 
-For the Photoshop I’ve chosen "Mona Lisa" by Leonardo 
-and for the Illustrator "Hope" by Shepard Perry.
+"Mona Lisa" by Leonardo Da Vinci stands for raster graphics and the Photoshop and "Hope" by Shepard Perry — for vector graphics and the Illustrator.
 
 ###Result
 
 ![alt text](https://raw.github.com/keske/motivation/master/img/result.png "Result")
 
+_Looks good!_
 
 ---
 
